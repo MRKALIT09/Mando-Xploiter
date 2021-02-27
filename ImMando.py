@@ -1,3 +1,63 @@
+#Recode Aja Trus Kontol Ampe Puas anjg 
+#Masak mastah Recode aowkwowo Lawak Ni Mastah
+#Ingat Kntl Walaupun Kau Recode Tidak Akan Membuat Mu 
+#Jadi Pembuat asli scrip ini 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #!/usr/bin/python2
 # coding=utf-8
 
